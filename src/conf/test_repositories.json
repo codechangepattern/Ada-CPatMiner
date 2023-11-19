@@ -1,0 +1,227 @@
+{
+    "AdaDoom3/AdaDoom3": {
+        "stargazerCount": 246,
+        "commitCount": 831,
+        "name": "AdaDoom3"
+    },
+    "jrmarino/synth": {
+        "stargazerCount": 243,
+        "commitCount": 734,
+        "name": "synth"
+    },
+    "tofgarion/spark-by-example": {
+        "stargazerCount": 146,
+        "commitCount": 778,
+        "name": "spark-by-example"
+    },
+    "Lucretia/sdlada": {
+        "stargazerCount": 99,
+        "commitCount": 520,
+        "name": "sdlada"
+    },
+    "zertovitch/hac": {
+        "stargazerCount": 86,
+        "commitCount": 833,
+        "name": "hac"
+    },
+    "wookey-project/ewok-kernel": {
+        "stargazerCount": 71,
+        "commitCount": 520,
+        "name": "ewok-kernel"
+    },
+    "Blunk-electronic/M-1": {
+        "stargazerCount": 31,
+        "commitCount": 647,
+        "name": "M-1"
+    },
+    "jrmarino/AdaBase": {
+        "stargazerCount": 30,
+        "commitCount": 586,
+        "name": "AdaBase"
+    },
+    "Componolit/libsparkcrypto": {
+        "stargazerCount": 27,
+        "commitCount": 801,
+        "name": "libsparkcrypto"
+    },
+    "Componolit/gneiss": {
+        "stargazerCount": 22,
+        "commitCount": 643,
+        "name": "gneiss"
+    },
+    "yet-another-static-site-generator/yass": {
+        "stargazerCount": 22,
+        "commitCount": 781,
+        "name": "yass"
+    },
+    "stcarrez/swagger-ada": {
+        "stargazerCount": 20,
+        "commitCount": 609,
+        "name": "swagger-ada"
+    },
+    "stcarrez/ada-security": {
+        "stargazerCount": 19,
+        "commitCount": 865,
+        "name": "ada-security"
+    },
+    "zertovitch/zip-ada": {
+        "stargazerCount": 19,
+        "commitCount": 935,
+        "name": "zip-ada"
+    },
+    "pmunts/muntsos": {
+        "stargazerCount": 18,
+        "commitCount": 552,
+        "name": "muntsos"
+    },
+    "AdaCore/cuda": {
+        "stargazerCount": 18,
+        "commitCount": 504,
+        "name": "cuda"
+    },
+    "HonkiTonk/Honki-Tonks-Zivilisationen": {
+        "stargazerCount": 17,
+        "commitCount": 909,
+        "name": "Honki-Tonks-Zivilisationen"
+    },
+    "stcarrez/ada-enet": {
+        "stargazerCount": 16,
+        "commitCount": 530,
+        "name": "ada-enet"
+    },
+    "jrmarino/draco": {
+        "stargazerCount": 11,
+        "commitCount": 969,
+        "name": "draco"
+    },
+    "andgi/NBAda": {
+        "stargazerCount": 10,
+        "commitCount": 528,
+        "name": "NBAda"
+    },
+    "AdaCore/aunit": {
+        "stargazerCount": 8,
+        "commitCount": 655,
+        "name": "aunit"
+    },
+    "stcarrez/ada-el": {
+        "stargazerCount": 6,
+        "commitCount": 541,
+        "name": "ada-el"
+    },
+    "AdaCore/templates-parser": {
+        "stargazerCount": 5,
+        "commitCount": 941,
+        "name": "templates-parser"
+    },
+    "blancolioni/rose": {
+        "stargazerCount": 5,
+        "commitCount": 850,
+        "name": "rose"
+    },
+    "onox/dcf-ada": {
+        "stargazerCount": 5,
+        "commitCount": 862,
+        "name": "dcf-ada"
+    },
+    "AdaCore/florist": {
+        "stargazerCount": 5,
+        "commitCount": 618,
+        "name": "florist"
+    },
+    "grahamstark/tax_benefit_model_components": {
+        "stargazerCount": 3,
+        "commitCount": 552,
+        "name": "tax_benefit_model_components"
+    },
+    "stcarrez/ada-css": {
+        "stargazerCount": 3,
+        "commitCount": 566,
+        "name": "ada-css"
+    },
+    "alire-project/gnoga": {
+        "stargazerCount": 3,
+        "commitCount": 737,
+        "name": "gnoga"
+    },
+    "sirnicolaz/F1-Simulator": {
+        "stargazerCount": 2,
+        "commitCount": 843,
+        "name": "F1-Simulator"
+    },
+    "virtualnetwork/vn-lib": {
+        "stargazerCount": 2,
+        "commitCount": 798,
+        "name": "vn-lib"
+    },
+    "Ravenports/ravensw": {
+        "stargazerCount": 2,
+        "commitCount": 550,
+        "name": "ravensw"
+    },
+    "sogilis/XReq": {
+        "stargazerCount": 1,
+        "commitCount": 672,
+        "name": "XReq"
+    },
+    "sogilis/template-parser": {
+        "stargazerCount": 1,
+        "commitCount": 743,
+        "name": "template-parser"
+    },
+    "sparre/libdialplan": {
+        "stargazerCount": 1,
+        "commitCount": 670,
+        "name": "libdialplan"
+    },
+    "faelys/natools": {
+        "stargazerCount": 1,
+        "commitCount": 551,
+        "name": "natools"
+    },
+    "willg/AdaSMU-AdaDriverLibrary": {
+        "stargazerCount": 1,
+        "commitCount": 511,
+        "name": "AdaSMU-AdaDriverLibrary"
+    },
+    "schwering/db6": {
+        "stargazerCount": 1,
+        "commitCount": 510,
+        "name": "db6"
+    },
+    "glencornell/xmada": {
+        "stargazerCount": 1,
+        "commitCount": 516,
+        "name": "xmada"
+    },
+    "Letractively/ada-util": {
+        "stargazerCount": 0,
+        "commitCount": 918,
+        "name": "ada-util"
+    },
+    "Letractively/ada-ado": {
+        "stargazerCount": 0,
+        "commitCount": 530,
+        "name": "ada-ado"
+    },
+    "willg/adaCoreExperiment": {
+        "stargazerCount": 0,
+        "commitCount": 506,
+        "name": "adaCoreExperiment"
+    },
+    "JulienPivard/Implementation-Ada-DES": {
+        "stargazerCount": 0,
+        "commitCount": 618,
+        "name": "Implementation-Ada-DES"
+    },
+    "JulienPivard/Algo_Evolutionnaire_En_Ada": {
+        "stargazerCount": 0,
+        "commitCount": 596,
+        "name": "Algo_Evolutionnaire_En_Ada"
+    },
+    "tkoskine/ahven": {
+        "stargazerCount": 0,
+        "commitCount": 948,
+        "name": "ahven"
+    }
+}

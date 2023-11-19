@@ -1,0 +1,482 @@
+{
+  "AdaCore/gnatstudio": {
+    "stargazerCount": 336,
+    "commitCount": 43991,
+    "contributors": 56,
+    "name": "gnatstudio"
+  },
+  "mk270/whitakers-words": {
+    "stargazerCount": 240,
+    "commitCount": 1037,
+    "contributors": 14,
+    "name": "whitakers-words"
+  },
+  "alire-project/alire": {
+    "stargazerCount": 220,
+    "commitCount": 1725,
+    "contributors": 28,
+    "name": "alire"
+  },
+  "AdaCore/Ada_Drivers_Library": {
+    "stargazerCount": 216,
+    "commitCount": 1408,
+    "contributors": 37,
+    "name": "Ada_Drivers_Library"
+  },
+  "AdaCore/spark2014": {
+    "stargazerCount": 209,
+    "commitCount": 25179,
+    "contributors": 45,
+    "name": "spark2014"
+  },
+  "AdaCore/ada_language_server": {
+    "stargazerCount": 197,
+    "commitCount": 1928,
+    "contributors": 27,
+    "name": "ada_language_server"
+  },
+  "AdaCore/gnat-llvm": {
+    "stargazerCount": 155,
+    "commitCount": 3392,
+    "contributors": 17,
+    "name": "gnat-llvm"
+  },
+  "AdaCore/libadalang": {
+    "stargazerCount": 132,
+    "commitCount": 5368,
+    "contributors": 22,
+    "name": "libadalang"
+  },
+  "AdaCore/aws": {
+    "stargazerCount": 115,
+    "commitCount": 11819,
+    "contributors": 26,
+    "name": "aws"
+  },
+  "AdaCore/RecordFlux": {
+    "stargazerCount": 92,
+    "commitCount": 2671,
+    "contributors": 8,
+    "name": "RecordFlux"
+  },
+  "thindil/steamsky": {
+    "stargazerCount": 88,
+    "commitCount": 20775,
+    "contributors": 6,
+    "name": "steamsky"
+  },
+  "stcarrez/ada-awa": {
+    "stargazerCount": 85,
+    "commitCount": 6059,
+    "contributors": 4,
+    "name": "ada-awa"
+  },
+  "AdaCore/gtkada": {
+    "stargazerCount": 76,
+    "commitCount": 8103,
+    "contributors": 24,
+    "name": "gtkada"
+  },
+  "codelabs-ch/muen": {
+    "stargazerCount": 69,
+    "commitCount": 14451,
+    "contributors": 9,
+    "name": "muen"
+  },
+  "stcarrez/ada-util": {
+    "stargazerCount": 61,
+    "commitCount": 3300,
+    "contributors": 6,
+    "name": "ada-util"
+  },
+  "AdaCore/gprbuild": {
+    "stargazerCount": 55,
+    "commitCount": 3975,
+    "contributors": 44,
+    "name": "gprbuild"
+  },
+  "AdaCore/bb-runtimes": {
+    "stargazerCount": 55,
+    "commitCount": 1192,
+    "contributors": 30,
+    "name": "bb-runtimes"
+  },
+  "OpenAADL/ocarina": {
+    "stargazerCount": 54,
+    "commitCount": 1746,
+    "contributors": 10,
+    "name": "ocarina"
+  },
+  "janverschelde/PHCpack": {
+    "stargazerCount": 53,
+    "commitCount": 6687,
+    "contributors": 4,
+    "name": "PHCpack"
+  },
+  "onox/orka": {
+    "stargazerCount": 50,
+    "commitCount": 1671,
+    "contributors": 6,
+    "name": "orka"
+  },
+  "kburtch/SparForte": {
+    "stargazerCount": 49,
+    "commitCount": 1534,
+    "contributors": 6,
+    "name": "SparForte"
+  },
+  "AdaCore/VSS": {
+    "stargazerCount": 46,
+    "commitCount": 1260,
+    "contributors": 9,
+    "name": "VSS"
+  },
+  "AdaCore/gnatcoll-core": {
+    "stargazerCount": 44,
+    "commitCount": 3314,
+    "contributors": 44,
+    "name": "gnatcoll-core"
+  },
+  "ytomino/drake": {
+    "stargazerCount": 38,
+    "commitCount": 1810,
+    "contributors": 2,
+    "name": "drake"
+  },
+  "stcarrez/ada-keystore": {
+    "stargazerCount": 29,
+    "commitCount": 1777,
+    "contributors": 5,
+    "name": "ada-keystore"
+  },
+  "AdaCore/gnatcoverage": {
+    "stargazerCount": 28,
+    "commitCount": 6385,
+    "contributors": 29,
+    "name": "gnatcoverage"
+  },
+  "reznikmm/matreshka_archive": {
+    "stargazerCount": 26,
+    "commitCount": 4163,
+    "contributors": 6,
+    "name": "matreshka_archive"
+  },
+  "stcarrez/ada-ado": {
+    "stargazerCount": 21,
+    "commitCount": 1685,
+    "contributors": 3,
+    "name": "ada-ado"
+  },
+  "AdaCore/xmlada": {
+    "stargazerCount": 21,
+    "commitCount": 1587,
+    "contributors": 26,
+    "name": "xmlada"
+  },
+  "thindil/hunter": {
+    "stargazerCount": 21,
+    "commitCount": 3897,
+    "contributors": 1,
+    "name": "hunter"
+  },
+  "AdaCore/PolyORB": {
+    "stargazerCount": 20,
+    "commitCount": 12022,
+    "contributors": 24,
+    "name": "PolyORB"
+  },
+  "AdaCore/training_material": {
+    "stargazerCount": 20,
+    "commitCount": 1462,
+    "contributors": 10,
+    "name": "training_material"
+  },
+  "gabriele-galeotti/SweetAda": {
+    "stargazerCount": 20,
+    "commitCount": 1747,
+    "contributors": 1,
+    "name": "SweetAda"
+  },
+  "Ravenports/ravenadm": {
+    "stargazerCount": 18,
+    "commitCount": 1349,
+    "contributors": 2,
+    "name": "ravenadm"
+  },
+  "pmunts/libsimpleio": {
+    "stargazerCount": 18,
+    "commitCount": 3411,
+    "contributors": 1,
+    "name": "libsimpleio"
+  },
+  "stcarrez/ada-wiki": {
+    "stargazerCount": 17,
+    "commitCount": 1527,
+    "contributors": 3,
+    "name": "ada-wiki"
+  },
+  "stcarrez/dynamo": {
+    "stargazerCount": 15,
+    "commitCount": 2343,
+    "contributors": 3,
+    "name": "dynamo"
+  },
+  "AdaCore/libadalang-tools": {
+    "stargazerCount": 15,
+    "commitCount": 1274,
+    "contributors": 24,
+    "name": "libadalang-tools"
+  },
+  "Adalog-fr/Adacontrol": {
+    "stargazerCount": 15,
+    "commitCount": 1102,
+    "contributors": 2,
+    "name": "Adacontrol"
+  },
+  "charlie5/lace-prototype-deprecated": {
+    "stargazerCount": 13,
+    "commitCount": 1270,
+    "contributors": 2,
+    "name": "lace-prototype-deprecated"
+  },
+  "AdaCore/gpr": {
+    "stargazerCount": 12,
+    "commitCount": 2344,
+    "contributors": 23,
+    "name": "gpr"
+  },
+  "AdaCore/gnatcoll-bindings": {
+    "stargazerCount": 11,
+    "commitCount": 2886,
+    "contributors": 30,
+    "name": "gnatcoll-bindings"
+  },
+  "Blunk-electronic/ET": {
+    "stargazerCount": 9,
+    "commitCount": 5453,
+    "contributors": 1,
+    "name": "ET"
+  },
+  "malaise/ada": {
+    "stargazerCount": 7,
+    "commitCount": 7232,
+    "contributors": 1,
+    "name": "ada"
+  },
+  "simonjwright/coldframe": {
+    "stargazerCount": 7,
+    "commitCount": 3159,
+    "contributors": 2,
+    "name": "coldframe"
+  },
+  "thindil/tashy": {
+    "stargazerCount": 7,
+    "commitCount": 1711,
+    "contributors": 2,
+    "name": "tashy"
+  },
+  "AdaHeads/call-flow-control": {
+    "stargazerCount": 6,
+    "commitCount": 1155,
+    "contributors": 4,
+    "name": "call-flow-control"
+  },
+  "naiad-auv/naiad-auv-software": {
+    "stargazerCount": 6,
+    "commitCount": 1148,
+    "contributors": 4,
+    "name": "naiad-auv-software"
+  },
+  "stcarrez/mat": {
+    "stargazerCount": 6,
+    "commitCount": 1637,
+    "contributors": 1,
+    "name": "mat"
+  },
+  "stcarrez/ada-servlet": {
+    "stargazerCount": 6,
+    "commitCount": 2576,
+    "contributors": 3,
+    "name": "ada-servlet"
+  },
+  "Blady-Com/gnoga": {
+    "stargazerCount": 5,
+    "commitCount": 1015,
+    "contributors": 4,
+    "name": "gnoga"
+  },
+  "enzbang/vision2pixels": {
+    "stargazerCount": 4,
+    "commitCount": 1587,
+    "contributors": 2,
+    "name": "vision2pixels"
+  },
+  "diffblue/gnat2goto": {
+    "stargazerCount": 4,
+    "commitCount": 1377,
+    "contributors": 2,
+    "name": "gnat2goto"
+  },
+  "sogilis/aws": {
+    "stargazerCount": 3,
+    "commitCount": 9707,
+    "contributors": 3,
+    "name": "aws"
+  },
+  "AdaCore/langkit-query-language": {
+    "stargazerCount": 3,
+    "commitCount": 1898,
+    "contributors": 17,
+    "name": "langkit-query-language"
+  },
+  "godunko/matreshka": {
+    "stargazerCount": 3,
+    "commitCount": 5893,
+    "contributors": 4,
+    "name": "matreshka"
+  },
+  "rogermc2/GA_Ada": {
+    "stargazerCount": 2,
+    "commitCount": 1533,
+    "contributors": 1,
+    "name": "GA_Ada"
+  },
+  "thindil/tashy2": {
+    "stargazerCount": 2,
+    "commitCount": 2278,
+    "contributors": 1,
+    "name": "tashy2"
+  },
+  "AdaHeads/project-archive": {
+    "stargazerCount": 1,
+    "commitCount": 1056,
+    "contributors": 4,
+    "name": "project-archive"
+  },
+  "svn2github/GtkAda": {
+    "stargazerCount": 0,
+    "commitCount": 1455,
+    "contributors": 1,
+    "name": "GtkAda"
+  },
+  "BackupTheBerlios/giant": {
+    "stargazerCount": 0,
+    "commitCount": 1470,
+    "contributors": 1,
+    "name": "giant"
+  },
+  "Letractively/ada-asf": {
+    "stargazerCount": 0,
+    "commitCount": 1414,
+    "contributors": 1,
+    "name": "ada-asf"
+  },
+  "Letractively/ada-awa": {
+    "stargazerCount": 0,
+    "commitCount": 2183,
+    "contributors": 1,
+    "name": "ada-awa"
+  },
+  "Letractively/ada-gen": {
+    "stargazerCount": 0,
+    "commitCount": 1286,
+    "contributors": 1,
+    "name": "ada-gen"
+  },
+  "vincentjzimmer/muen": {
+    "stargazerCount": 0,
+    "commitCount": 7043,
+    "contributors": 1,
+    "name": "muen"
+  },
+  "norbertlevay/fits_io": {
+    "stargazerCount": 0,
+    "commitCount": 1369,
+    "contributors": 1,
+    "name": "fits_io"
+  },
+  "gitGNU/gnu_v2p": {
+    "stargazerCount": 0,
+    "commitCount": 1671,
+    "contributors": 2,
+    "name": "gnu_v2p"
+  },
+  "fuzzysloth/ada-awa": {
+    "stargazerCount": 0,
+    "commitCount": 3887,
+    "contributors": 1,
+    "name": "ada-awa"
+  },
+  "florianschanda/spark_2014": {
+    "stargazerCount": 0,
+    "commitCount": 17784,
+    "contributors": 28,
+    "name": "spark_2014"
+  },
+  "alpheios-project/wordsxml": {
+    "stargazerCount": 0,
+    "commitCount": 4093,
+    "contributors": 2,
+    "name": "wordsxml"
+  },
+  "orangecms/muen": {
+    "stargazerCount": 0,
+    "commitCount": 8981,
+    "contributors": 5,
+    "name": "muen"
+  },
+  "svn2github/matreshka": {
+    "stargazerCount": 0,
+    "commitCount": 4114,
+    "contributors": 1,
+    "name": "matreshka"
+  },
+  "rogermc2/More_OglAda_Examples": {
+    "stargazerCount": 0,
+    "commitCount": 2722,
+    "contributors": 1,
+    "name": "More_OglAda_Examples"
+  },
+  "lounick/ocarina": {
+    "stargazerCount": 0,
+    "commitCount": 1273,
+    "contributors": 8,
+    "name": "ocarina"
+  },
+  "blancolioni/aquarius": {
+    "stargazerCount": 0,
+    "commitCount": 1624,
+    "contributors": 1,
+    "name": "aquarius"
+  },
+  "blancolioni/concorde-0-0-0": {
+    "stargazerCount": 0,
+    "commitCount": 1187,
+    "contributors": 1,
+    "name": "concorde-0-0-0"
+  },
+  "benozol/spark2014": {
+    "stargazerCount": 0,
+    "commitCount": 21777,
+    "contributors": 47,
+    "name": "spark2014"
+  },
+  "gspu/muen": {
+    "stargazerCount": 0,
+    "commitCount": 11283,
+    "contributors": 5,
+    "name": "muen"
+  },
+  "xiashuangxi/ada_language_server": {
+    "stargazerCount": 0,
+    "commitCount": 1071,
+    "contributors": 1,
+    "name": "ada_language_server"
+  },
+  "mstewartgallus/linted": {
+    "stargazerCount": 0,
+    "commitCount": 2987,
+    "contributors": 1,
+    "name": "linted"
+  }
+}

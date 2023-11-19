@@ -1,0 +1,23 @@
+{
+  "git_repositories_dir": "C:/change-pattern-mining/ada-test-repositories",
+  "change_graphs_storage_dir": "C:/change-pattern-mining/out/change-graphs",
+  "change_graphs_store_interval": 300,
+
+  "patterns_output_dir": "C:/change-pattern-mining/out/patterns",
+  "patterns_output_details": false,
+
+  "patterns_min_frequency": 3,
+  "patterns_max_frequency": 1000,
+  "patterns_async_mining": false,
+  "patterns_full_print": false,
+  "patterns_hide_overlapped_fragments": true,
+  "patterns_min_size": 3,
+
+  "traverse_file_max_line_count": 3000,
+  "traverse_async": true,
+  "traverse_max_commits": 1000,
+
+  "logger_file_path": "miner.log",
+  "logger_file_log_level": "INFO",
+  "logger_stdout_log_level": "WARNING"
+}
